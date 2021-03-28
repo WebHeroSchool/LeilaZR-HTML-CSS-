@@ -5,6 +5,7 @@
 	margin: 0;
 }
 .header{
+	padding: 40px 0;
 	display: flex;
 	justify-content: space-between;
 }
@@ -23,8 +24,10 @@
 	display: inline-block;
 }
 .logo {
- padding: 40px 0;
- font: bold 24px/31px pt_serif, arial, helvetica, sans-serif;
+ width: 190px;
+ height: 35px;
+ border: dashed 1px red;
+ background:  url('img/logo.svg');
 }
 
 
